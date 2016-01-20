@@ -108,6 +108,11 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+.subtitle {
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -119,6 +124,9 @@ header .intro-text .skills {
     }
 
     header .intro-text .skills {
+        font-size: 1.75em;
+    }
+    .subtitle {
         font-size: 1.75em;
     }
 }
